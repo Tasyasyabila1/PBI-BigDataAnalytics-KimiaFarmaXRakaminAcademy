@@ -13,3 +13,4 @@ The datasets provided include:
 4. product information `kf_product`
 
 ## Importing Dataset to BigQuery
+![importing dataset to bigquery](https://github.com/user-attachments/assets/a4ac8443-0c4f-457a-ae89-c126ee790e3d)
